@@ -41,3 +41,8 @@ figure img {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+tagline {
+	font-style: italic;
+	text-align: center;
+}
